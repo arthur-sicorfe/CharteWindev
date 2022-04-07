@@ -2,7 +2,7 @@
 
 ## Langue
 La langue choisie pour la programmation est le français. Le WLangage simplifie son usage et permet une meilleure lisibité au sein de l'équipe de développement.  
-La charte de programmation du WLangage est utilisée dans le projet incluant l'ensemble ses préfixes. Il est cependant préférable de ne pas utiliser d'accents pour le nommage des variables en cas de problème lors de différentes opérations de convertion.
+La charte de programmation du WLangage est utilisée dans le projet incluant l'ensemble ses préfixes. Il est cependant préférable de ne pas utiliser d'accents pour le nommage des variables en cas de problème lors de différentes opérations de conversion.
 
 ## Programmation Orientée Objet 
 - Modèle  
